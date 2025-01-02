@@ -34,11 +34,11 @@
   "MinecraftData": {
     "Addons": [
       {
-        "title": "AG's Morph Mobs Addon",
+        "title": "Addon: Pokédrock 1 (Pokemon part 1)",
         "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/Pokedrock1.zip",
         "isLocked": false,
         "coins": 0,
-        "description": "Introducing AG's Morph Mobs, the ultimate Minecraft addon that unleashes your shapeshifting abilities like never before! With this groundbreaking addon, players can seamlessly transform into any Minecraft mob at their whim, opening up a whole new world of possibilities and adventures. OVER 70+ MOBS !",
+        "description": "Welcome to the world of Pokédrock! This addon have a combat system, mounts and real evolutions!",
         "preview": [
           "https://www.mcpedl.life/files/mods/Poke/Poke%CC%81drock%201%20/screen-img.jpeg",
           "https://www.mcpedl.life/files/mods/Poke/Poke%CC%81drock%201%20/screen-img%20(1).jpeg",
@@ -49,21 +49,21 @@
         ]
       },
           {
-        "title": "Morph Addon Official 1.0 Addon",
-        "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/Morph%20Addon%20Official%201.0/164767.zip",
+        "title": "Addon: Pokédrock 3 (Pokemon part 2)",
+        "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/serppokedrock2.zip",
         "isLocked": false,
         "coins": 0,
-        "description": "Supported Minecraft versions : 1.17+",
+        "description": "This is the Second generation of Pokédrock! This addon works as a complement for the first generation (SERP Pokédrock 1) and (third generation 3) ! although it is also designed to work on its own!",
         "preview": [
           "https://api.mcpedl.com/storage/submissions/27222/105/logo_1-520x245.png"
         ]
       },
            {
-        "title": "Cda's Morph Addon",
-        "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/Cda's%20Morph/306274.zip",
+        "title": "Addon: Pokédrock 3 (Pokemon part 3)",
+        "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/serppokedrock3.zip",
         "isLocked": false,
         "coins": 0,
-        "description": "Cda’s Morph Add-on brings the popular Java Edition Morph Mod onto Bedrock Edition! This currently supports all the mobs as stated by Minecraft Gamepedia, minus the Ender Dragon. You are able to morph into mobs and take their appearance and more using items that you can either craft or get by killing a mob.",
+        "description": "Welcome to the Third generation of Pokédrock! This addon is compatible with the first and second generation addons.",
         "preview": [
           "https://api.mcpedl.com/storage/submissions/34497/107/20210316-cdas-morph-addon-youtube-thumbnail_1-520x245.png",
           "https://r2.mcpedl.com/submissions/106974/images/morph-addon-official-10_2.png",
@@ -72,22 +72,22 @@
         ]
       },
            {
-        "title": "Morphing Bracelet Addon",
-        "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/Morphing%20Bracelet/721169.zip",
+        "title": "Addon: Pixelmon Bedrock",
+        "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/pokemon-addon-v1_0_0-by_drgame.zip",
         "isLocked": false,
         "coins": 0,
-        "description": "Morphing Bracelet is a brand new item that allows players to morph into several mobs! Do you want to be a creeper and explode your friend's house? Well, now you can! With this a..",
+        "description": "Did you want a Pokemon with the same quality as the Pixelmon Mod in Java Edition? For you, Pixelmon has come to Bedrock Edition. Raise a Pokémon with great quality! Meet and catch various Pokémon in the wild, and stay together!",
         "preview": [
           "https://api.mcpedl.com/storage/submissions/58261/122/thumbnail-mcpedl_1-520x245.png",
           "https://r2.mcpedl.com/submissions/232660/images/morphing-bracelet-beta_2.png"
         ]
       },
                {
-        "title": "Item Morph Addon",
-        "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/Item%20Morph%20Addon/718908.zip",
+        "title": "PokéMC (Pokémon) Addon",
+        "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/pokemc.zip",
         "isLocked": false,
         "coins": 0,
-        "description": "Do You Like Morph Mods In Minecraft? Well, this Addon is for you!! Its because with this Addon, you can now turn into amethyst, flowers, and many more!! And the morphs are also ..",
+        "description": "PokéMC (Pokémon) - Minecraft Pokemon Addon! The mod adds mobs of Pokemon with realistic 3D models. This is a working mod where you can become a Pokemon trainer..",
         "preview": [
           "https://api.mcpedl.com/storage/submissions/116873/100/20240305071101_1-520x245.png",
           "https://r2.mcpedl.com/submissions/225402/images/item-morph-addon_2.jpeg",
@@ -106,8 +106,8 @@
         ]
       },
                {
-        "title": "The Ultimate Morph Addon",
-        "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/The%20Ultimate%20Morph/morph.zip",
+        "title": "The Ultimate Morph Addon (Gift)",
+        "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/craftmon-legacy-v0_6.zip",
         "isLocked": false,
         "coins": 0,
         "description": "Hello friends Ultimate Morph Addon is a Morph Addon For Minecraft Pocket Edition in this addon you can morph into the following:Block (Glass, Sapling,..",
